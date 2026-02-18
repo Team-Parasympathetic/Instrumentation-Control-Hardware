@@ -3096,6 +3096,12 @@
 		(uuid "27baf5fe-6e57-4d93-8bf5-4da8d52e5a27")
 	)
 	(junction
+		(at 50.8 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "30d96392-6804-468a-b47b-746535b588d1")
+	)
+	(junction
 		(at 255.27 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3967,6 +3973,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 107.95) (xy 50.8 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6282efc8-8a31-44ad-9a57-2df990dfed73")
+	)
+	(wire
+		(pts
 			(xy 83.82 34.29) (xy 83.82 33.02)
 		)
 		(stroke
@@ -4124,6 +4140,16 @@
 			(type default)
 		)
 		(uuid "78c4cc45-bc1d-4a37-9ceb-ca57447da312")
+	)
+	(wire
+		(pts
+			(xy 50.8 97.79) (xy 50.8 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7af358e0-356e-441c-bfe3-c21eeabb96be")
 	)
 	(wire
 		(pts
@@ -4447,7 +4473,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 77.47) (xy 78.74 77.47)
+			(xy 64.77 77.47) (xy 78.74 77.47)
 		)
 		(stroke
 			(width 0)
@@ -4617,7 +4643,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 77.47) (xy 66.04 77.47)
+			(xy 41.91 77.47) (xy 57.15 77.47)
 		)
 		(stroke
 			(width 0)
@@ -4707,6 +4733,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 106.68) (xy 50.8 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1557777-9843-4451-b3e9-f31475ab0b5b")
+	)
+	(wire
+		(pts
 			(xy 153.67 96.52) (xy 153.67 93.98)
 		)
 		(stroke
@@ -4774,6 +4810,16 @@
 			(type default)
 		)
 		(uuid "dc3d9a9b-7a83-4d0f-9c48-d483bef07ebe")
+	)
+	(wire
+		(pts
+			(xy 50.8 116.84) (xy 50.8 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd4c3804-108c-41e7-ac51-c4c8b12f3107")
 	)
 	(wire
 		(pts
@@ -4894,6 +4940,16 @@
 			(type default)
 		)
 		(uuid "eb8b06d5-391e-46e8-8c40-2ababac0d5f8")
+	)
+	(wire
+		(pts
+			(xy 50.8 107.95) (xy 52.07 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eea3a786-36fc-44d8-80ae-4f6d637cdf44")
 	)
 	(wire
 		(pts
@@ -5034,6 +5090,26 @@
 			(justify right bottom)
 		)
 		(uuid "362f0cfa-d61e-471c-ab89-98094245bfed")
+	)
+	(label "VSENS"
+		(at 115.57 44.45 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "42959f38-0104-485b-bb56-209df66e057c")
+	)
+	(label "VSENS"
+		(at 52.07 107.95 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "45f2df9f-88ce-4596-9756-7f695520a88d")
 	)
 	(label "SWDIO"
 		(at 115.57 77.47 0)
@@ -5180,6 +5256,17 @@
 			(justify left)
 		)
 		(uuid "4b91de6a-2025-4d1c-9a9e-7ebaacf066b5")
+	)
+	(hierarchical_label "PB3"
+		(shape bidirectional)
+		(at 76.2 80.01 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "51ed23d2-39d9-4cd7-8744-9a2dac12f7a2")
 	)
 	(hierarchical_label "PB6"
 		(shape bidirectional)
@@ -5357,27 +5444,16 @@
 		)
 		(uuid "ab39f49c-2a19-4d45-a38c-6fa737c44e94")
 	)
-	(hierarchical_label "PA0"
+	(hierarchical_label "PA1"
 		(shape bidirectional)
-		(at 115.57 44.45 0)
+		(at 115.57 46.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "d1031a51-75bf-43ca-b47c-3f9ec804acd6")
-	)
-	(hierarchical_label "PB3"
-		(shape bidirectional)
-		(at 76.2 80.01 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d3ecfe19-d120-4c35-8640-4e928cbfceec")
+		(uuid "d24afecc-19aa-4289-aa6e-45a3b7099a61")
 	)
 	(hierarchical_label "PA8"
 		(shape bidirectional)
@@ -5400,17 +5476,6 @@
 			(justify left)
 		)
 		(uuid "dfaeb233-d1d1-47c2-876d-7396770a967d")
-	)
-	(hierarchical_label "PA1"
-		(shape bidirectional)
-		(at 115.57 46.99 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e8b3afa8-5a07-4f92-8c78-13f7e83b78ee")
 	)
 	(hierarchical_label "PA2"
 		(shape bidirectional)
@@ -6060,6 +6125,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 50.8 97.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3dab86ab-1e3f-41d8-b7c2-cbde84f49f75")
+		(property "Reference" "#PWR016"
+			(at 50.8 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 50.8 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 50.8 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 50.8 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 50.8 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "32363afb-9d88-454b-8317-e1a3dc01b4b6")
+		)
+		(instances
+			(project "Pump Control Card R1"
+				(path "/ff1870f3-6a64-4f6c-9ec6-b3e6f5db28b5/1f0089c3-1425-4c68-94bd-e8236ea2ca92"
+					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 46.99 34.29 0)
 		(unit 1)
@@ -6675,6 +6806,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 50.8 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "550102e3-51a6-41c5-9eba-277a2844fec7")
+		(property "Reference" "R8"
+			(at 53.34 111.7599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "20K"
+			(at 53.34 114.2999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 49.022 113.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 50.8 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 50.8 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "57d68fd9-ec7f-44f9-88c4-1b78fe13cbd8")
+		)
+		(pin "1"
+			(uuid "c4688831-9d0b-40bc-bc37-e8b254339bc6")
+		)
+		(instances
+			(project "Pump Control Card R1"
+				(path "/ff1870f3-6a64-4f6c-9ec6-b3e6f5db28b5/1f0089c3-1425-4c68-94bd-e8236ea2ca92"
+					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 203.2 43.18 0)
 		(unit 1)
@@ -6964,6 +7165,72 @@
 			(project "Pump Control Card R1"
 				(path "/ff1870f3-6a64-4f6c-9ec6-b3e6f5db28b5/1f0089c3-1425-4c68-94bd-e8236ea2ca92"
 					(reference "#PWR032")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 50.8 118.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "609ff259-1a18-4340-8f8c-c498c7909f8f")
+		(property "Reference" "#PWR096"
+			(at 50.8 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 50.8 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 50.8 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 50.8 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 50.8 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "25c627a3-d2e2-4c98-95dc-35860e9aea06")
+		)
+		(instances
+			(project "Pump Control Card R1"
+				(path "/ff1870f3-6a64-4f6c-9ec6-b3e6f5db28b5/1f0089c3-1425-4c68-94bd-e8236ea2ca92"
+					(reference "#PWR096")
 					(unit 1)
 				)
 			)
@@ -7286,7 +7553,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 69.85 77.47 90)
+		(at 60.96 77.47 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7294,7 +7561,7 @@
 		(dnp no)
 		(uuid "739246bb-95fb-4c72-b3d4-d0958cbf4aab")
 		(property "Reference" "R14"
-			(at 65.786 78.74 90)
+			(at 56.896 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7302,7 +7569,7 @@
 			)
 		)
 		(property "Value" "100K"
-			(at 75.184 78.74 90)
+			(at 66.294 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7310,7 +7577,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 69.85 79.248 90)
+			(at 60.96 79.248 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7319,7 +7586,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 69.85 77.47 0)
+			(at 60.96 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7328,7 +7595,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 69.85 77.47 0)
+			(at 60.96 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8094,6 +8361,76 @@
 			(project "Pump Control Card R1"
 				(path "/ff1870f3-6a64-4f6c-9ec6-b3e6f5db28b5/1f0089c3-1425-4c68-94bd-e8236ea2ca92"
 					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 50.8 102.87 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "acb96670-a6fe-4426-81fc-8361c4a31795")
+		(property "Reference" "R7"
+			(at 53.34 101.5999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "33K"
+			(at 53.34 104.1399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 49.022 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 50.8 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 50.8 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5627e158-19be-4892-a14a-d6d21ffc3964")
+		)
+		(pin "1"
+			(uuid "f9e80d87-44de-4447-9aef-f5aad9eb5c9c")
+		)
+		(instances
+			(project "Pump Control Card R1"
+				(path "/ff1870f3-6a64-4f6c-9ec6-b3e6f5db28b5/1f0089c3-1425-4c68-94bd-e8236ea2ca92"
+					(reference "R7")
 					(unit 1)
 				)
 			)
