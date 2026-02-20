@@ -3823,6 +3823,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 107.95) (xy 43.18 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a23b868-d53f-4763-abc5-8cd2cb713545")
+	)
+	(wire
+		(pts
 			(xy 163.83 85.09) (xy 163.83 86.36)
 		)
 		(stroke
@@ -4643,6 +4653,16 @@
 	)
 	(wire
 		(pts
+			(xy 43.18 107.95) (xy 43.18 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2fe71ba-2e27-4967-bb59-08857200eb26")
+	)
+	(wire
+		(pts
 			(xy 41.91 77.47) (xy 57.15 77.47)
 		)
 		(stroke
@@ -4990,6 +5010,16 @@
 			(type default)
 		)
 		(uuid "f6f40a35-4aed-49c1-9b50-3786453ff857")
+	)
+	(wire
+		(pts
+			(xy 43.18 116.84) (xy 43.18 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f744422a-dc30-42f7-ab5c-730f29cb7135")
 	)
 	(wire
 		(pts
@@ -9165,6 +9195,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 43.18 118.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c275f8ea-6bfc-4525-818f-7e89eec50383")
+		(property "Reference" "#PWR097"
+			(at 43.18 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 43.18 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 43.18 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 43.18 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 43.18 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b8691b91-1add-4832-bc13-7b46d538bb5d")
+		)
+		(instances
+			(project "Pump Control Card R1"
+				(path "/ff1870f3-6a64-4f6c-9ec6-b3e6f5db28b5/1f0089c3-1425-4c68-94bd-e8236ea2ca92"
+					(reference "#PWR097")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 41.91 67.31 0)
 		(unit 1)
@@ -10118,6 +10214,75 @@
 			(project "Pump Control Card R1"
 				(path "/ff1870f3-6a64-4f6c-9ec6-b3e6f5db28b5/1f0089c3-1425-4c68-94bd-e8236ea2ca92"
 					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 43.18 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ff4e46e5-5e18-4182-9f46-feb8dc96e1ee")
+		(property "Reference" "C3"
+			(at 43.434 110.998 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "47nF"
+			(at 43.434 115.316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 44.1452 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 43.18 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 43.18 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "2561c789-604f-48c2-821d-ba03529e8d82")
+		)
+		(pin "1"
+			(uuid "c90b2baa-52f3-4456-ad79-7869574a3733")
+		)
+		(instances
+			(project "Pump Control Card R1"
+				(path "/ff1870f3-6a64-4f6c-9ec6-b3e6f5db28b5/1f0089c3-1425-4c68-94bd-e8236ea2ca92"
+					(reference "C3")
 					(unit 1)
 				)
 			)
