@@ -3798,7 +3798,7 @@
 		(uuid "fea36528-f4ce-4d2a-ac71-8557fe5aac9a")
 	)
 	(hierarchical_label "IRQ_OUT"
-		(shape input)
+		(shape output)
 		(at 111.76 133.35 180)
 		(effects
 			(font

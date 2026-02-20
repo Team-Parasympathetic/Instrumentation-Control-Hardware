@@ -4224,16 +4224,6 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 45.72) (xy 39.37 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2ba1e644-645e-4b5a-af1f-13a19cdaa741")
-	)
-	(wire
-		(pts
 			(xy 86.36 66.04) (xy 115.57 66.04)
 		)
 		(stroke
@@ -4464,7 +4454,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 54.61) (xy 39.37 54.61)
+			(xy 34.29 45.72) (xy 39.37 45.72)
 		)
 		(stroke
 			(width 0)
@@ -4654,7 +4644,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 63.5) (xy 39.37 63.5)
+			(xy 34.29 54.61) (xy 39.37 54.61)
 		)
 		(stroke
 			(width 0)
@@ -5161,16 +5151,6 @@
 			(type default)
 		)
 		(uuid "5c28a4ac-c587-4bf3-972a-29b28d35d876")
-	)
-	(wire
-		(pts
-			(xy 33.02 43.18) (xy 39.37 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5e593240-0336-4ae5-82ec-9dcddd204cc6")
 	)
 	(wire
 		(pts
@@ -5784,7 +5764,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 52.07) (xy 39.37 52.07)
+			(xy 34.29 43.18) (xy 39.37 43.18)
 		)
 		(stroke
 			(width 0)
@@ -5891,16 +5871,6 @@
 			(type default)
 		)
 		(uuid "88e2d555-3d60-487a-99de-ce4c7de38959")
-	)
-	(wire
-		(pts
-			(xy 33.02 48.26) (xy 39.37 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8b403fcf-de09-447c-bcd1-6491d223dc17")
 	)
 	(wire
 		(pts
@@ -6934,7 +6904,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 66.04) (xy 39.37 66.04)
+			(xy 34.29 57.15) (xy 39.37 57.15)
 		)
 		(stroke
 			(width 0)
@@ -6954,7 +6924,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 60.96) (xy 39.37 60.96)
+			(xy 34.29 52.07) (xy 39.37 52.07)
 		)
 		(stroke
 			(width 0)
@@ -7854,7 +7824,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 57.15) (xy 39.37 57.15)
+			(xy 34.29 48.26) (xy 39.37 48.26)
 		)
 		(stroke
 			(width 0)
@@ -7943,7 +7913,7 @@
 		(uuid "01562eca-cac3-4d44-b764-a86a004b642f")
 	)
 	(label "RST"
-		(at 33.02 66.04 180)
+		(at 34.29 57.15 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8483,7 +8453,7 @@
 		(uuid "57277f2b-01b2-4fe1-abb4-981a940d947f")
 	)
 	(label "PA0{slash}WKUP"
-		(at 33.02 60.96 180)
+		(at 34.29 52.07 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8613,7 +8583,7 @@
 		(uuid "65b567b2-1821-4ede-9acd-2898cca34525")
 	)
 	(label "SYNC"
-		(at 33.02 63.5 180)
+		(at 34.29 54.61 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8992,16 +8962,6 @@
 		)
 		(uuid "aa8937f7-7c39-42b1-9789-f524c22bb370")
 	)
-	(label "USART1_CK"
-		(at 33.02 48.26 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "aaefe16b-8e5c-429b-b500-c67394e9c135")
-	)
 	(label "SYNC"
 		(at 198.12 162.56 180)
 		(effects
@@ -9153,7 +9113,7 @@
 		(uuid "c3b82761-4ea0-4773-8308-e91b494936c4")
 	)
 	(label "USART2_RX"
-		(at 33.02 54.61 180)
+		(at 34.29 45.72 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9213,7 +9173,7 @@
 		(uuid "cb78e35c-72c0-430d-8364-994563a3d688")
 	)
 	(label "USART2_CK"
-		(at 33.02 57.15 180)
+		(at 34.29 48.26 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9233,7 +9193,7 @@
 		(uuid "ceac2cb0-1df9-4a51-9408-8de158dc82a4")
 	)
 	(label "USART2_TX"
-		(at 33.02 52.07 180)
+		(at 34.29 43.18 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9342,16 +9302,6 @@
 		)
 		(uuid "dff619ab-682c-4e07-b842-90c53b94f611")
 	)
-	(label "USART1_TX"
-		(at 33.02 43.18 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "e1063738-f563-4bf1-98a6-690278d99e47")
-	)
 	(label "SLOT7_CS"
 		(at 138.43 66.04 0)
 		(effects
@@ -9371,16 +9321,6 @@
 			(justify right bottom)
 		)
 		(uuid "e5ebb3f7-276f-4813-8b6b-ebcd0d16b4e0")
-	)
-	(label "USART1_RX"
-		(at 33.02 45.72 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "e66956f3-f850-4e17-a6fe-2a0d2afc0596")
 	)
 	(label "CAN_H"
 		(at 379.73 55.88 0)
@@ -23158,7 +23098,7 @@
 			)
 		)
 		(pin "PA15" bidirectional
-			(at 39.37 66.04 180)
+			(at 39.37 57.15 180)
 			(uuid "a7806955-840b-4103-a38e-2b06928fba9e")
 			(effects
 				(font
@@ -23168,7 +23108,7 @@
 			)
 		)
 		(pin "USART2_RX" input
-			(at 39.37 54.61 180)
+			(at 39.37 45.72 180)
 			(uuid "0a10f02e-cf17-47df-a08d-59efed6c1211")
 			(effects
 				(font
@@ -23178,7 +23118,7 @@
 			)
 		)
 		(pin "USART2_CK" output
-			(at 39.37 57.15 180)
+			(at 39.37 48.26 180)
 			(uuid "6c1b0a69-dfdb-4cf4-ab87-73afbd961242")
 			(effects
 				(font
@@ -23188,7 +23128,7 @@
 			)
 		)
 		(pin "PA1" bidirectional
-			(at 39.37 63.5 180)
+			(at 39.37 54.61 180)
 			(uuid "5600dfb0-caad-44b9-a8ee-cff863c29906")
 			(effects
 				(font
@@ -23198,7 +23138,7 @@
 			)
 		)
 		(pin "PA0" bidirectional
-			(at 39.37 60.96 180)
+			(at 39.37 52.07 180)
 			(uuid "7d1210c1-fb3e-436c-8824-9cbe047d6224")
 			(effects
 				(font
@@ -23208,7 +23148,7 @@
 			)
 		)
 		(pin "USART2_TX" output
-			(at 39.37 52.07 180)
+			(at 39.37 43.18 180)
 			(uuid "e85daf59-55f0-4eda-8f1a-2cbac770ce56")
 			(effects
 				(font
@@ -23237,16 +23177,6 @@
 				(justify right)
 			)
 		)
-		(pin "USART1_CK" output
-			(at 39.37 48.26 180)
-			(uuid "9126c062-285a-45d5-b858-a27862ae86a0")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "MISO_1" input
 			(at 86.36 50.8 0)
 			(uuid "64de9b52-5344-46a0-b7fe-e7d5a0d7f67b")
@@ -23255,26 +23185,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-		(pin "USART1_RX" input
-			(at 39.37 45.72 180)
-			(uuid "90a0a195-3277-42ba-a0e3-223f0ca21425")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "USART1_TX" output
-			(at 39.37 43.18 180)
-			(uuid "76af5238-5307-4778-a0ae-f70e44ce1c06")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 		(pin "GND" output
