@@ -595,29 +595,7 @@
 			(uuid "376fb22f-1070-44a7-850b-44a0b39eee19")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Texas_R-PDSO-N5_DRL-5.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "/Users/frankzhang/Documents/KiCad/9.0/3dmodels/DRL0005A.stp"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "C:/Users/Frank/Documents/KiCad/9.0/3dmodels/DRL0005A.stp"
+		(model "${KIPRJMOD}/Models/DRL0005A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1290,18 +1268,7 @@
 			(uuid "f3941ddd-a74a-4069-b122-1d300175cc86")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "/Users/frankzhang/Documents/KiCad/9.0/3dmodels/530480410.step"
+		(model "${KIPRJMOD}/Models/530480410.step"
 			(offset
 				(xyz 1.9 -3.5 1.9)
 			)
@@ -1310,17 +1277,6 @@
 			)
 			(rotate
 				(xyz -0 -0 180)
-			)
-		)
-		(model "C:/Users/Frank/Documents/KiCad/9.0/3dmodels/530480410.step"
-			(offset
-				(xyz 1.9 -3.5 1.9)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -180)
 			)
 		)
 	)
@@ -5269,7 +5225,7 @@
 		(uuid "3015e53f-f6b1-40f1-a5df-c057dc014e71")
 		(at 95.5 82.4 -90)
 		(property "Reference" "J3"
-			(at -1.48 -4.425 270)
+			(at -1.48 -4.425 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "652b8f49-c7af-47fb-8778-ceee08bab697")
@@ -5281,7 +5237,7 @@
 			)
 		)
 		(property "Value" "FTSH-107-01-L-D-K"
-			(at 10.585 4.425 270)
+			(at 10.585 4.425 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "69cf7980-cb5d-4b02-8467-1c8299b1287e")
@@ -5293,7 +5249,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "82353e22-2199-4baa-8516-80c0f12fb3ca")
@@ -5305,7 +5261,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b7f492b5-5b59-42b2-988b-aba30fde06a2")
@@ -6662,18 +6618,7 @@
 			(uuid "2f82c1eb-e10d-4c31-ac40-719a6677b456")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "/Users/frankzhang/Documents/KiCad/9.0/3dmodels/530480410.step"
+		(model "${KIPRJMOD}/Models/530480410.step"
 			(offset
 				(xyz 1.9 -3.5 1.9)
 			)
@@ -6682,17 +6627,6 @@
 			)
 			(rotate
 				(xyz -0 -0 180)
-			)
-		)
-		(model "C:/Users/Frank/Documents/KiCad/9.0/3dmodels/530480410.step"
-			(offset
-				(xyz 1.9 -3.5 1.9)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -180)
 			)
 		)
 	)
@@ -13019,18 +12953,7 @@
 			(uuid "4c6d2fbc-6b03-4f92-a50b-7352773d6c49")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "/Users/frankzhang/Documents/KiCad/9.0/3dmodels/530480410.step"
+		(model "${KIPRJMOD}/Models/530480410.step"
 			(offset
 				(xyz 1.9 -3.5 1.9)
 			)
@@ -13039,17 +12962,6 @@
 			)
 			(rotate
 				(xyz -0 -0 180)
-			)
-		)
-		(model "C:/Users/Frank/Documents/KiCad/9.0/3dmodels/530480410.step"
-			(offset
-				(xyz 1.9 -3.5 1.9)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -180)
 			)
 		)
 	)
@@ -13594,18 +13506,7 @@
 			(uuid "1fb0a589-fa12-40c1-b36f-94477a93d715")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "/Users/frankzhang/Documents/KiCad/9.0/3dmodels/530480410.step"
+		(model "${KIPRJMOD}/Models/530480410.step"
 			(offset
 				(xyz 1.9 -3.5 1.9)
 			)
@@ -13614,17 +13515,6 @@
 			)
 			(rotate
 				(xyz -0 -0 180)
-			)
-		)
-		(model "C:/Users/Frank/Documents/KiCad/9.0/3dmodels/530480410.step"
-			(offset
-				(xyz 1.9 -3.5 1.9)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -180)
 			)
 		)
 	)
@@ -14393,18 +14283,7 @@
 			(uuid "29bee351-ae36-4fbc-88ac-cfb32af2f20a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "/Users/frankzhang/Documents/KiCad/9.0/3dmodels/530480410.step"
+		(model "${KIPRJMOD}/Models/530480410.step"
 			(offset
 				(xyz 1.9 -3.5 1.9)
 			)
@@ -14413,17 +14292,6 @@
 			)
 			(rotate
 				(xyz -0 -0 180)
-			)
-		)
-		(model "C:/Users/Frank/Documents/KiCad/9.0/3dmodels/530480410.step"
-			(offset
-				(xyz 1.9 -3.5 1.9)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -180)
 			)
 		)
 	)
@@ -16945,29 +16813,7 @@
 			(uuid "086cd1a2-cbe3-4ff3-8bb6-d84298aed76f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "/Users/frankzhang/Documents/KiCad/9.0/3dmodels/530480410.step"
-			(offset
-				(xyz 1.9 -3.5 1.9)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 180)
-			)
-		)
-		(model "C:/Users/Frank/Documents/KiCad/9.0/3dmodels/530480410.step"
+		(model "${KIPRJMOD}/Models/530480410.step"
 			(offset
 				(xyz 1.9 -3.5 1.9)
 			)
@@ -18118,29 +17964,7 @@
 			(uuid "0e09b868-034b-439c-a48f-52c20a25c7e9")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "/Users/frankzhang/Documents/KiCad/9.0/3dmodels/530480410.step"
-			(offset
-				(xyz 1.9 -3.5 1.9)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 180)
-			)
-		)
-		(model "C:/Users/Frank/Documents/KiCad/9.0/3dmodels/530480410.step"
+		(model "${KIPRJMOD}/Models/530480410.step"
 			(offset
 				(xyz 1.9 -3.5 1.9)
 			)
@@ -19323,29 +19147,7 @@
 			(uuid "712d2eea-1113-41c4-8ece-63bd7049915a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "/Users/frankzhang/Documents/KiCad/9.0/3dmodels/ABM3-8.000MHZ-D2Y-T.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 -0 -0)
-			)
-		)
-		(model "C:/Users/Frank/Documents/KiCad/9.0/3dmodels/ABM3-8.000MHZ-D2Y-T.step"
+		(model "${KIPRJMOD}/Models/ABM3-8.000MHZ-D2Y-T.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21796,18 +21598,7 @@
 			(uuid "b763d310-50f8-4222-a7e3-5a25068fe5ca")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "/Users/frankzhang/Documents/KiCad/9.0/3dmodels/530480410.step"
+		(model "${KIPRJMOD}/Models/530480410.step"
 			(offset
 				(xyz 1.9 -3.5 1.9)
 			)
@@ -21816,17 +21607,6 @@
 			)
 			(rotate
 				(xyz -0 -0 180)
-			)
-		)
-		(model "C:/Users/Frank/Documents/KiCad/9.0/3dmodels/530480410.step"
-			(offset
-				(xyz 1.9 -3.5 1.9)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -180)
 			)
 		)
 	)
