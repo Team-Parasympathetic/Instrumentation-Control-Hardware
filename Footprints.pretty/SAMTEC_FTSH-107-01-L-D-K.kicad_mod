@@ -599,7 +599,7 @@
 		(uuid "3b9f3510-96d9-4708-a5a4-71c2bfd7dc87")
 	)
 	(embedded_fonts no)
-	(model "/Users/frankzhang/Documents/KiCad/9.0/3dmodels/FTSH-107-01-L-D-K.step"
+	(model "${KIPRJMOD}/Models/FTSH-107-01-L-D-K.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -781,9 +781,9 @@
 		(uuid "7ba63a70-fede-4678-aa83-fc4524c3b47f")
 	)
 	(embedded_fonts no)
-	(model "/Users/frankzhang/Documents/KiCad/9.0/3dmodels/10018784-10201TLF.step"
+	(model "${KIPRJMOD}/Models/10018784-10201TLF.step"
 		(offset
-			(xyz 14.35 -3.75 0)
+			(xyz 14.35 -3.7 0)
 		)
 		(scale
 			(xyz 1 1 1)
