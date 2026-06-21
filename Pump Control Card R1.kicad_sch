@@ -812,7 +812,7 @@
 		)
 		(uuid "3c8ed1b8-3716-4be1-8b19-d2e594273e02")
 	)
-	(text "JST Connectors"
+	(text "Picoblade Connectors"
 		(exclude_from_sim no)
 		(at 240.284 24.638 0)
 		(effects
