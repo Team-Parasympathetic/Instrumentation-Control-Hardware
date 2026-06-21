@@ -4853,7 +4853,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D_Zener"
+		(property "Value" "D_3V3"
 			(at 106.68 58.4199 90)
 			(effects
 				(font
@@ -4947,7 +4947,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D_Zener"
+		(property "Value" "D_5V"
 			(at 102.87 78.7399 90)
 			(effects
 				(font
@@ -5331,7 +5331,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED_B"
 			(at 95.25 86.6774 90)
 			(effects
 				(font
@@ -6297,7 +6297,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D_Zener"
+		(property "Value" "D_VIN"
 			(at 106.68 101.5999 90)
 			(effects
 				(font

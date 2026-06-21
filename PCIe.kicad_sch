@@ -4480,7 +4480,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED_B"
 			(at 95.25 86.6774 90)
 			(effects
 				(font
@@ -4759,8 +4759,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Zener"
-			(at 101.346 102.616 90)
+		(property "Value" "D_VIN"
+			(at 102.87 103.124 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4829,8 +4829,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Zener"
-			(at 101.092 59.436 90)
+		(property "Value" "D_3V3"
+			(at 102.87 59.944 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5249,8 +5249,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Zener"
-			(at 97.282 79.756 90)
+		(property "Value" "D_5V"
+			(at 100.33 80.264 90)
 			(effects
 				(font
 					(size 1.27 1.27)
