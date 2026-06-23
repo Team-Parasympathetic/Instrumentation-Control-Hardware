@@ -545,7 +545,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:EXB-28V220JX"
+		(symbol "Symbols:EXB-28V220JX"
 			(pin_names
 				(offset 0.254)
 			)
@@ -4191,7 +4191,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:EXB-28V220JX")
+		(lib_id "Symbols:EXB-28V220JX")
 		(at 113.03 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4216,7 +4216,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:EXB28V_PAN"
+		(property "Footprint" "Footprints:EXB28V_PAN"
 			(at 113.03 107.95 0)
 			(effects
 				(font
@@ -4935,7 +4935,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:EXB-28V220JX")
+		(lib_id "Symbols:EXB-28V220JX")
 		(at 172.72 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4960,7 +4960,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:EXB28V_PAN"
+		(property "Footprint" "Footprints:EXB28V_PAN"
 			(at 172.72 107.95 0)
 			(effects
 				(font
@@ -5371,7 +5371,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:EXB-28V220JX")
+		(lib_id "Symbols:EXB-28V220JX")
 		(at 231.14 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5396,7 +5396,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:EXB28V_PAN"
+		(property "Footprint" "Footprints:EXB28V_PAN"
 			(at 231.14 107.95 0)
 			(effects
 				(font
@@ -5839,7 +5839,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:EXB-28V220JX")
+		(lib_id "Symbols:EXB-28V220JX")
 		(at 54.61 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5864,7 +5864,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:EXB28V_PAN"
+		(property "Footprint" "Footprints:EXB28V_PAN"
 			(at 54.61 107.95 0)
 			(effects
 				(font

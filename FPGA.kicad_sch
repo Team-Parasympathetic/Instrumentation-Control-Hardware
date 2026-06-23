@@ -526,7 +526,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "FPGA_Lattice:LCMXO2-7000HC-6TG144I"
+		(symbol "Symbols:LCMXO2-7000HC-6TG144I"
 			(pin_names
 				(offset 0.254)
 			)
@@ -3215,7 +3215,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Oscillator:T602-025.0M"
+		(symbol "Symbols:T602-025.0M"
 			(pin_names
 				(offset 0.254)
 			)
@@ -5042,6 +5042,16 @@
 			(type default)
 		)
 		(uuid "349781e1-8234-46e3-9dc8-9fdc051be87c")
+	)
+	(wire
+		(pts
+			(xy 247.65 67.31) (xy 259.08 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37796a10-f048-4595-94a8-831b59068ac0")
 	)
 	(wire
 		(pts
@@ -7535,16 +7545,6 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 69.85) (xy 259.08 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e28a1e0c-73b0-4e28-8998-d11922c429be")
-	)
-	(wire
-		(pts
 			(xy 270.51 29.21) (xy 270.51 30.48)
 		)
 		(stroke
@@ -8053,6 +8053,16 @@
 		)
 		(uuid "1519958f-cce0-4bc0-ba5a-c2ef8c49238a")
 	)
+	(label "OSC_OUT"
+		(at 259.08 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "16c3e0c5-5307-4655-b436-eb739e683853")
+	)
 	(label "SN"
 		(at 78.74 180.34 180)
 		(effects
@@ -8172,16 +8182,6 @@
 			(justify right bottom)
 		)
 		(uuid "6f879534-1568-4482-add9-3b05b0955bb0")
-	)
-	(label "OSC_OUT"
-		(at 259.08 69.85 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "868ff121-2161-4505-85de-f55ee7848af7")
 	)
 	(label "JTAGENB"
 		(at 259.08 87.63 0)
@@ -14079,7 +14079,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Oscillator:T602-025.0M")
+		(lib_id "Symbols:T602-025.0M")
 		(at 167.64 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14103,7 +14103,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Oscillator:T602-025.0M_CNW"
+		(property "Footprint" "Footprints:T602-025.0M_CNW"
 			(at 167.64 139.7 0)
 			(effects
 				(font
@@ -16349,7 +16349,7 @@
 		)
 	)
 	(symbol
-		(lib_id "FPGA_Lattice:LCMXO2-7000HC-6TG144I")
+		(lib_id "Symbols:LCMXO2-7000HC-6TG144I")
 		(at 176.53 26.67 0)
 		(unit 2)
 		(exclude_from_sim no)
@@ -16359,7 +16359,7 @@
 		(fields_autoplaced yes)
 		(uuid "dd68e8b2-a36a-402b-9401-dc199f555a59")
 		(property "Reference" "U1"
-			(at 212.09 17.78 0)
+			(at 212.09 16.51 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -16367,14 +16367,14 @@
 			)
 		)
 		(property "Value" "LCMXO2-7000HC-6TG144I"
-			(at 212.09 20.32 0)
+			(at 212.09 19.05 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
 			)
 		)
-		(property "Footprint" "Package_QFP:TQFP144_LAT"
+		(property "Footprint" "Footprints:TQFP144_LAT"
 			(at 176.53 26.67 0)
 			(effects
 				(font
@@ -17519,7 +17519,7 @@
 		)
 	)
 	(symbol
-		(lib_id "FPGA_Lattice:LCMXO2-7000HC-6TG144I")
+		(lib_id "Symbols:LCMXO2-7000HC-6TG144I")
 		(at 43.18 26.67 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17529,7 +17529,7 @@
 		(fields_autoplaced yes)
 		(uuid "ed839bb6-e2f6-4f0c-9259-8e48c7ea55c1")
 		(property "Reference" "U1"
-			(at 78.74 17.78 0)
+			(at 78.74 16.51 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -17537,14 +17537,14 @@
 			)
 		)
 		(property "Value" "LCMXO2-7000HC-6TG144I"
-			(at 78.74 20.32 0)
+			(at 78.74 19.05 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
 			)
 		)
-		(property "Footprint" "Package_QFP:TQFP144_LAT"
+		(property "Footprint" "Footprints:TQFP144_LAT"
 			(at 43.18 26.67 0)
 			(effects
 				(font
