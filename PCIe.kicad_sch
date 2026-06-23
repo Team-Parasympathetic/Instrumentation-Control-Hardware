@@ -3551,7 +3551,7 @@
 					(unit 1)
 				)
 			)
-			(project "Pump Control Card R1"
+			(project "Pump Control Card"
 				(path "/ff1870f3-6a64-4f6c-9ec6-b3e6f5db28b5/a31aceaa-11e4-4d17-8abc-e3b526c017fa"
 					(reference "J10")
 					(unit 1)
@@ -3626,7 +3626,7 @@
 					(unit 1)
 				)
 			)
-			(project "Pump Control Card R1"
+			(project "Pump Control Card"
 				(path "/ff1870f3-6a64-4f6c-9ec6-b3e6f5db28b5/a31aceaa-11e4-4d17-8abc-e3b526c017fa"
 					(reference "C90")
 					(unit 1)
@@ -3702,7 +3702,7 @@
 					(unit 1)
 				)
 			)
-			(project "Pump Control Card R1"
+			(project "Pump Control Card"
 				(path "/ff1870f3-6a64-4f6c-9ec6-b3e6f5db28b5/a31aceaa-11e4-4d17-8abc-e3b526c017fa"
 					(reference "C91")
 					(unit 1)
@@ -3778,7 +3778,7 @@
 					(unit 1)
 				)
 			)
-			(project "Pump Control Card R1"
+			(project "Pump Control Card"
 				(path "/ff1870f3-6a64-4f6c-9ec6-b3e6f5db28b5/a31aceaa-11e4-4d17-8abc-e3b526c017fa"
 					(reference "C89")
 					(unit 1)
@@ -3853,7 +3853,7 @@
 					(unit 1)
 				)
 			)
-			(project "Pump Control Card R1"
+			(project "Pump Control Card"
 				(path "/ff1870f3-6a64-4f6c-9ec6-b3e6f5db28b5/a31aceaa-11e4-4d17-8abc-e3b526c017fa"
 					(reference "C88")
 					(unit 1)
@@ -3929,7 +3929,7 @@
 					(unit 1)
 				)
 			)
-			(project "Pump Control Card R1"
+			(project "Pump Control Card"
 				(path "/ff1870f3-6a64-4f6c-9ec6-b3e6f5db28b5/a31aceaa-11e4-4d17-8abc-e3b526c017fa"
 					(reference "C93")
 					(unit 1)
@@ -4005,7 +4005,7 @@
 					(unit 1)
 				)
 			)
-			(project "Pump Control Card R1"
+			(project "Pump Control Card"
 				(path "/ff1870f3-6a64-4f6c-9ec6-b3e6f5db28b5/a31aceaa-11e4-4d17-8abc-e3b526c017fa"
 					(reference "C96")
 					(unit 1)

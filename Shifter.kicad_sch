@@ -1299,7 +1299,7 @@
 			(uuid "bb5a2dba-8a0a-4458-b379-ccb06373fd38")
 		)
 		(instances
-			(project "Pump Control Card R1"
+			(project "Pump Control Card"
 				(path "/ff1870f3-6a64-4f6c-9ec6-b3e6f5db28b5/2a839dbd-8cf8-4de4-89e2-80e9c80e1519"
 					(reference "U3")
 					(unit 1)
@@ -1368,7 +1368,7 @@
 			(uuid "ef77bff8-1d38-488f-a0f2-b580b12ff928")
 		)
 		(instances
-			(project "Pump Control Card R1"
+			(project "Pump Control Card"
 				(path "/ff1870f3-6a64-4f6c-9ec6-b3e6f5db28b5/2a839dbd-8cf8-4de4-89e2-80e9c80e1519"
 					(reference "#PWR020")
 					(unit 1)
@@ -1438,7 +1438,7 @@
 			(uuid "ceb6dd44-d803-4de0-95af-d5cd2cbb05ba")
 		)
 		(instances
-			(project "Pump Control Card R1"
+			(project "Pump Control Card"
 				(path "/ff1870f3-6a64-4f6c-9ec6-b3e6f5db28b5/2a839dbd-8cf8-4de4-89e2-80e9c80e1519"
 					(reference "#PWR019")
 					(unit 1)
@@ -1508,7 +1508,7 @@
 			(uuid "d0425bdf-1af3-4745-bf1d-b469bac6031e")
 		)
 		(instances
-			(project "Pump Control Card R1"
+			(project "Pump Control Card"
 				(path "/ff1870f3-6a64-4f6c-9ec6-b3e6f5db28b5/2a839dbd-8cf8-4de4-89e2-80e9c80e1519"
 					(reference "#PWR018")
 					(unit 1)
@@ -1578,7 +1578,7 @@
 			(uuid "8d335a7f-d21e-499c-b26e-54ef69240d7a")
 		)
 		(instances
-			(project "Pump Control Card R1"
+			(project "Pump Control Card"
 				(path "/ff1870f3-6a64-4f6c-9ec6-b3e6f5db28b5/2a839dbd-8cf8-4de4-89e2-80e9c80e1519"
 					(reference "#PWR017")
 					(unit 1)
@@ -1652,7 +1652,7 @@
 			(uuid "b51dac3e-b269-4ecc-9ab0-d86bce868a3d")
 		)
 		(instances
-			(project "Pump Control Card R1"
+			(project "Pump Control Card"
 				(path "/ff1870f3-6a64-4f6c-9ec6-b3e6f5db28b5/2a839dbd-8cf8-4de4-89e2-80e9c80e1519"
 					(reference "C7")
 					(unit 1)
@@ -1726,7 +1726,7 @@
 			(uuid "74771edc-1c30-4a88-9e45-ff2cf599ba18")
 		)
 		(instances
-			(project "Pump Control Card R1"
+			(project "Pump Control Card"
 				(path "/ff1870f3-6a64-4f6c-9ec6-b3e6f5db28b5/2a839dbd-8cf8-4de4-89e2-80e9c80e1519"
 					(reference "C8")
 					(unit 1)

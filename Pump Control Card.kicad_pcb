@@ -79,7 +79,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "../Gerber Files/Pump Control Card R1 Gerbers/")
+			(outputdirectory "../Gerber Files/Pump Control Card Gerbers/")
 		)
 	)
 	(net 0 "")
@@ -257,7 +257,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e2ae39ed-0a66-41c6-bc0c-afb3b5bc681f")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -869,7 +869,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/276a7d25-8e47-4493-b916-8090cab941e4")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.36 4.56)
@@ -2140,7 +2140,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/52d6c0b0-bb44-4440-ad66-2099be0583e1")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -3938,7 +3938,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/0585873f-55ca-4d5b-a7be-160e7e03f9c7")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -4288,7 +4288,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/9c5146e7-33ce-4d5c-bbe8-6511f6cf377e")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -4371,7 +4371,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/4d4b7f62-55c1-41ae-87f9-d8c277d69ef5")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -6219,7 +6219,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/c58ed63e-76d3-44b0-9873-e8e6702b2224")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.36 4.56)
@@ -6832,7 +6832,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/ff3aec5b-07f9-43b4-9ed9-d4c8f3d21a96")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -7129,7 +7129,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f06c2a92-50a1-4f2e-ac1d-c5ff74374860")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -7332,7 +7332,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/fb66b473-5f9e-4387-85f9-2bdbb0b01130")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -11646,7 +11646,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/519912ef-349b-451e-bb63-fee3cc2567ea")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -12554,7 +12554,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/f6d53ec5-aa30-4f1c-9880-ad5a50bf2147")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.36 4.56)
@@ -13024,7 +13024,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/131581b4-c374-4233-aac7-7141ffd7ce0e")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -13107,7 +13107,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/134e785c-f777-478c-b042-9218b811a845")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.36 4.56)
@@ -13884,7 +13884,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/1c474822-3f64-4c3b-ad38-72e57094784d")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.36 4.56)
@@ -14760,7 +14760,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/938fd565-8eca-46fa-a97d-1637b8ab983d")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -16414,7 +16414,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/3b19b8db-0405-46c8-8181-9c091b2cdd5d")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.36 4.56)
@@ -17482,7 +17482,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/84a6adb7-ca90-4bfc-aa10-8eda285514cf")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -17565,7 +17565,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/18922adf-77f8-4d31-a565-e52e1ad6260a")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.36 4.56)
@@ -20450,7 +20450,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/bd8b5a23-5066-477c-af61-3f7c49ce0e89")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -20533,7 +20533,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/60e5ca39-c787-417e-8a0f-b5ae7df9e9b2")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -20627,7 +20627,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/c8d68457-675c-4db8-b6b5-f024e2096e13")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -20913,7 +20913,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/f8e3b714-27b4-46fd-a5c2-52390c178201")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -21199,7 +21199,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/b7fa12fc-e266-44ed-bd83-22a5642c89fc")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.36 4.56)
@@ -22545,7 +22545,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/e9fae9ea-39ad-4174-8213-c0eb099b97cd")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -23109,7 +23109,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/578f1dc1-0453-4fc0-84ef-c02cfb1a1879")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -23406,7 +23406,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/2f7ef305-19c1-407c-8e24-320dbf4e2b55")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -23500,7 +23500,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/27ee22d3-96c0-43bd-9002-2ea19e900d70")
 		(sheetname "/")
-		(sheetfile "Pump Control Card R1.kicad_sch")
+		(sheetfile "Pump Control Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
