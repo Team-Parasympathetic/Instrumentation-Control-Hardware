@@ -4614,7 +4614,7 @@
 			(uuid "f5a9d770-82c0-4b84-8b11-687a2b6b511d")
 		)
 		(instances
-			(project "Instrumentation Control R1"
+			(project "Instrumentation Control"
 				(path "/b9a7e6f8-6c2d-49ba-89a0-3c36b5f7c710/5664a6b3-f65b-477f-a655-fa2353d3285c"
 					(reference "C8")
 					(unit 1)
@@ -4708,7 +4708,7 @@
 			(uuid "d75d9e55-4cc7-467a-85f1-09e23764c6d4")
 		)
 		(instances
-			(project "Instrumentation Control R1"
+			(project "Instrumentation Control"
 				(path "/b9a7e6f8-6c2d-49ba-89a0-3c36b5f7c710/5664a6b3-f65b-477f-a655-fa2353d3285c"
 					(reference "C9")
 					(unit 1)
@@ -4802,7 +4802,7 @@
 			(uuid "49970d36-696b-4237-8b83-2ac6ba109149")
 		)
 		(instances
-			(project "Instrumentation Control R1"
+			(project "Instrumentation Control"
 				(path "/b9a7e6f8-6c2d-49ba-89a0-3c36b5f7c710/5664a6b3-f65b-477f-a655-fa2353d3285c"
 					(reference "C10")
 					(unit 1)
@@ -4896,7 +4896,7 @@
 			(uuid "2cfd822d-d4a5-41dd-91fb-dea2f22d1751")
 		)
 		(instances
-			(project "Instrumentation Control R1"
+			(project "Instrumentation Control"
 				(path "/b9a7e6f8-6c2d-49ba-89a0-3c36b5f7c710/5664a6b3-f65b-477f-a655-fa2353d3285c"
 					(reference "D17")
 					(unit 1)
@@ -4990,7 +4990,7 @@
 			(uuid "8744a5ef-1516-4c01-9d3d-bbb960d15786")
 		)
 		(instances
-			(project "Instrumentation Control R1"
+			(project "Instrumentation Control"
 				(path "/b9a7e6f8-6c2d-49ba-89a0-3c36b5f7c710/5664a6b3-f65b-477f-a655-fa2353d3285c"
 					(reference "D19")
 					(unit 1)
@@ -5091,7 +5091,7 @@
 			(uuid "4ca9398f-1e64-43cb-a8c8-cfe246274710")
 		)
 		(instances
-			(project "Instrumentation Control R1"
+			(project "Instrumentation Control"
 				(path "/b9a7e6f8-6c2d-49ba-89a0-3c36b5f7c710/5664a6b3-f65b-477f-a655-fa2353d3285c"
 					(reference "U3")
 					(unit 1)
@@ -5185,7 +5185,7 @@
 			(uuid "1b48755a-fd0c-43db-b1ad-7177ba01f816")
 		)
 		(instances
-			(project "Instrumentation Control R1"
+			(project "Instrumentation Control"
 				(path "/b9a7e6f8-6c2d-49ba-89a0-3c36b5f7c710/5664a6b3-f65b-477f-a655-fa2353d3285c"
 					(reference "C30")
 					(unit 1)
@@ -5279,7 +5279,7 @@
 			(uuid "99ef5e3e-9145-4413-80c2-c4c66db76ef2")
 		)
 		(instances
-			(project "Instrumentation Control R1"
+			(project "Instrumentation Control"
 				(path "/b9a7e6f8-6c2d-49ba-89a0-3c36b5f7c710/5664a6b3-f65b-477f-a655-fa2353d3285c"
 					(reference "C6")
 					(unit 1)
@@ -5374,7 +5374,7 @@
 			(uuid "18aeb3b0-5f9a-49c9-a275-32a78a32a9fc")
 		)
 		(instances
-			(project "Instrumentation Control R1"
+			(project "Instrumentation Control"
 				(path "/b9a7e6f8-6c2d-49ba-89a0-3c36b5f7c710/5664a6b3-f65b-477f-a655-fa2353d3285c"
 					(reference "D1")
 					(unit 1)
@@ -5468,7 +5468,7 @@
 			(uuid "2ffd8226-92e4-4465-a7dc-cd2cd1afef4d")
 		)
 		(instances
-			(project "Instrumentation Control R1"
+			(project "Instrumentation Control"
 				(path "/b9a7e6f8-6c2d-49ba-89a0-3c36b5f7c710/5664a6b3-f65b-477f-a655-fa2353d3285c"
 					(reference "R1")
 					(unit 1)
@@ -5562,7 +5562,7 @@
 			(uuid "49fc8337-f30d-4ced-b636-43eab9d3adbd")
 		)
 		(instances
-			(project "Instrumentation Control R1"
+			(project "Instrumentation Control"
 				(path "/b9a7e6f8-6c2d-49ba-89a0-3c36b5f7c710/5664a6b3-f65b-477f-a655-fa2353d3285c"
 					(reference "C7")
 					(unit 1)
@@ -5871,7 +5871,7 @@
 			(uuid "ad2b5360-1bdc-4b4e-8ebd-04f3f7d052ac")
 		)
 		(instances
-			(project "Instrumentation Control R1"
+			(project "Instrumentation Control"
 				(path "/b9a7e6f8-6c2d-49ba-89a0-3c36b5f7c710/5664a6b3-f65b-477f-a655-fa2353d3285c"
 					(reference "J1")
 					(unit 1)
@@ -5965,7 +5965,7 @@
 			(uuid "8774d3b6-875c-443b-89b9-b3c8a789ed9f")
 		)
 		(instances
-			(project "Instrumentation Control R1"
+			(project "Instrumentation Control"
 				(path "/b9a7e6f8-6c2d-49ba-89a0-3c36b5f7c710/5664a6b3-f65b-477f-a655-fa2353d3285c"
 					(reference "C11")
 					(unit 1)
@@ -6058,7 +6058,7 @@
 			(uuid "e23c6dc2-7f4d-401f-bf81-fcc2cf099215")
 		)
 		(instances
-			(project "Instrumentation Control R1"
+			(project "Instrumentation Control"
 				(path "/b9a7e6f8-6c2d-49ba-89a0-3c36b5f7c710/5664a6b3-f65b-477f-a655-fa2353d3285c"
 					(reference "C5")
 					(unit 1)
@@ -6152,7 +6152,7 @@
 			(uuid "83cfef77-9d73-4d02-83ce-5c3dd00cfe4a")
 		)
 		(instances
-			(project "Instrumentation Control R1"
+			(project "Instrumentation Control"
 				(path "/b9a7e6f8-6c2d-49ba-89a0-3c36b5f7c710/5664a6b3-f65b-477f-a655-fa2353d3285c"
 					(reference "C115")
 					(unit 1)
@@ -6246,7 +6246,7 @@
 			(uuid "9267ada9-5480-4ecf-bee7-79f4440c3ff1")
 		)
 		(instances
-			(project "Instrumentation Control R1"
+			(project "Instrumentation Control"
 				(path "/b9a7e6f8-6c2d-49ba-89a0-3c36b5f7c710/5664a6b3-f65b-477f-a655-fa2353d3285c"
 					(reference "C29")
 					(unit 1)
@@ -6340,7 +6340,7 @@
 			(uuid "09bb5558-852a-4663-b93a-aea1be0789c8")
 		)
 		(instances
-			(project "Instrumentation Control R1"
+			(project "Instrumentation Control"
 				(path "/b9a7e6f8-6c2d-49ba-89a0-3c36b5f7c710/5664a6b3-f65b-477f-a655-fa2353d3285c"
 					(reference "D18")
 					(unit 1)
@@ -6433,7 +6433,7 @@
 			(uuid "6757f84e-7b31-49a3-9f97-4e2031a9da7f")
 		)
 		(instances
-			(project "Instrumentation Control R1"
+			(project "Instrumentation Control"
 				(path "/b9a7e6f8-6c2d-49ba-89a0-3c36b5f7c710/5664a6b3-f65b-477f-a655-fa2353d3285c"
 					(reference "C4")
 					(unit 1)
