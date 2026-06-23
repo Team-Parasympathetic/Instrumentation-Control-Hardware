@@ -467,7 +467,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Timing Card R1.kicad_pro",
+    "filename": "Timing Card.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -503,10 +503,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../Gerber Files/Timing Card R1 Gerbers/",
+      "plot": "../Gerber Files/Timing Card Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../Desktop/Timing Card R1.step",
+      "step": "../../../Desktop/Timing Card.step",
       "svg": "",
       "vrml": ""
     },

@@ -3408,7 +3408,7 @@
 			(uuid "c91e60e9-46cf-4661-9c66-58ecba80326c")
 		)
 		(instances
-			(project "Timing Card R1"
+			(project "Timing Card"
 				(path "/fff8b85b-b334-4e51-bf22-f5c588ac7d6b/7c17f64b-aa53-41f1-831b-3cf26efb7468"
 					(reference "#PWR026")
 					(unit 1)
@@ -3474,7 +3474,7 @@
 			(uuid "e99383fb-3158-4d59-b85c-7241c04d0d84")
 		)
 		(instances
-			(project "Timing Card R1"
+			(project "Timing Card"
 				(path "/fff8b85b-b334-4e51-bf22-f5c588ac7d6b/7c17f64b-aa53-41f1-831b-3cf26efb7468"
 					(reference "#PWR023")
 					(unit 1)
@@ -3982,7 +3982,7 @@
 			(uuid "e71f2739-8fcb-4329-971d-d93dda2abcfe")
 		)
 		(instances
-			(project "Timing Card R1"
+			(project "Timing Card"
 				(path "/fff8b85b-b334-4e51-bf22-f5c588ac7d6b/7c17f64b-aa53-41f1-831b-3cf26efb7468"
 					(reference "#PWR027")
 					(unit 1)
@@ -4124,7 +4124,7 @@
 			(uuid "3b9b367f-78a2-471c-a5d6-7f484bdde484")
 		)
 		(instances
-			(project "Timing Card R1"
+			(project "Timing Card"
 				(path "/fff8b85b-b334-4e51-bf22-f5c588ac7d6b/7c17f64b-aa53-41f1-831b-3cf26efb7468"
 					(reference "#PWR025")
 					(unit 1)

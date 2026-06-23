@@ -137,7 +137,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "../Gerber Files/Timing Card R1 Gerbers/")
+			(outputdirectory "../Gerber Files/Timing Card Gerbers/")
 		)
 	)
 	(net 0 "")
@@ -410,7 +410,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/aef26095-0e3f-47f3-bb22-7d5444019c47")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -1085,7 +1085,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/a067fd58-d025-4bd2-ac42-13a6d19eb4ae")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -1322,7 +1322,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/14230e66-9e91-485b-a7ea-ef9d25fa2f63")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -1427,7 +1427,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/40e86a4d-43a6-4c1d-ae76-834516b66478")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1 -0.96)
@@ -2288,7 +2288,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b0f338d7-490a-4ae4-88c7-d048acbd37ae")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -3273,7 +3273,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/3f55a139-cb46-44d4-a86e-4e30eb83d821")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -3416,7 +3416,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d434cc70-19e7-4daf-9f96-36c6e4fa4365")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -5566,7 +5566,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/740c75f3-096b-4016-9094-dd743ec6929c")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -7312,7 +7312,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/a85d86fa-e4fd-4153-a0fd-cfc5e98ecb38")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -7549,7 +7549,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/80253934-2299-4d98-ba54-79b78da94c20")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -8176,7 +8176,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/39930014-5e64-459b-b27b-5c81ad28580f")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -8270,7 +8270,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/26faacb4-fc0d-46ce-89b1-392872eb87dc")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -8911,7 +8911,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/a5a3d688-4918-4604-a673-92dcbb5e2c44")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -9552,7 +9552,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/4206c4a1-2ae3-4060-8771-8a71b1dcc34a")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -10322,7 +10322,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/63c3953f-9d83-4b02-a96a-78eec2dff386")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -11138,7 +11138,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/280088bb-047c-43b0-b05f-72b8a0d4a609")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 -1.38)
@@ -21253,7 +21253,7 @@
 		)
 		(path "/debf1209-2089-443c-b972-ab745606d0fc")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 21.35 7.25)
@@ -24238,7 +24238,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1871acde-12fa-4880-84ce-e99a583e03a9")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1 -0.96)
@@ -25284,7 +25284,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/abf965ec-b551-4abe-8ddd-d2d101128482")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(clearance 0.15)
 		(attr smd)
 		(fp_line
@@ -25909,7 +25909,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/92797ce4-b052-45c6-89d2-e1342d1b8fb7")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(clearance 0.15)
 		(attr smd)
 		(fp_line
@@ -26386,7 +26386,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/be10e74d-4fa0-40a6-8aa6-e586826b0cfe")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(clearance 0.15)
 		(attr smd)
 		(fp_line
@@ -26863,7 +26863,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/f7b2d653-cbf3-4777-a0bd-b2bed88277cd")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(clearance 0.15)
 		(attr smd)
 		(fp_line
@@ -28282,7 +28282,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/3cbdc562-2be2-4418-841a-acfc376ccab4")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -29259,7 +29259,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/addd95ba-837f-4215-b6d5-dc6ec68c896c")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(clearance 0.15)
 		(attr smd)
 		(fp_line
@@ -30920,7 +30920,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/c521bf2b-3a59-407a-b9b2-8d2f8c1f89af")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(clearance 0.15)
 		(attr smd)
 		(fp_line
@@ -32001,7 +32001,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/de10a1d3-540a-4e98-b7e5-7db3da8140db")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(clearance 0.15)
 		(attr smd)
 		(fp_line
@@ -33514,7 +33514,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/955332f9-e9ce-4554-8516-5b4ceb66d485")
 		(sheetname "/")
-		(sheetfile "Timing Card R1.kicad_sch")
+		(sheetfile "Timing Card.kicad_sch")
 		(clearance 0.15)
 		(attr smd)
 		(fp_line
