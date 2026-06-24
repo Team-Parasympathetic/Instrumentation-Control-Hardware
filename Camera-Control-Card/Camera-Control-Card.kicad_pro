@@ -625,6 +625,10 @@
     [
       "63a1c871-f7c8-40c9-a25d-fb41c3b6e016",
       "Tristate"
+    ],
+    [
+      "a3d7617b-e6ec-434c-b745-e838c7530d03",
+      "Buffer_3V3"
     ]
   ],
   "text_variables": {}
