@@ -1,4 +1,4 @@
-27274837855257045
+27274838041915497
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -62440,19 +62440,19 @@ emi filter
 5
 5
 Footprints
-EXB28V_PAN
+AMPHENOL_78207-110HLF
 
-EXB-28V220JX 
+
 0
-8
-8
+10
+10
 Footprints
-MOLEX_71430-0101
+AMPHENOL_SFV24R-1STE1HLF
 
 
 0
-70
-70
+26
+26
 Footprints
 T602-025.0M_CNW
 
