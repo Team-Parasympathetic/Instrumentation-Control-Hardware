@@ -629,6 +629,10 @@
     [
       "a3d7617b-e6ec-434c-b745-e838c7530d03",
       "Buffer_3V3"
+    ],
+    [
+      "ea6424f1-c4b4-461e-9f97-ce84f6a534df",
+      "USB"
     ]
   ],
   "text_variables": {}

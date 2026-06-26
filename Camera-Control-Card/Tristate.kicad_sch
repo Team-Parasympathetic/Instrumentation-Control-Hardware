@@ -705,7 +705,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2646d0b8-83be-423c-944c-d35bb47d0d31")
-		(property "Reference" "#PWR0102"
+		(property "Reference" "#PWR063"
 			(at 139.7 121.92 0)
 			(effects
 				(font
@@ -755,7 +755,7 @@
 		(instances
 			(project "Timing Card"
 				(path "/b0fb402c-3ef3-47ab-87a7-c9cf76e376c0/ae4f5bb6-a0ce-4bcc-8790-572e089af1bb/63a1c871-f7c8-40c9-a25d-fb41c3b6e016"
-					(reference "#PWR0102")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -776,7 +776,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "579ca792-8f14-44e1-8a7a-9f06f5301f44")
-		(property "Reference" "U2"
+		(property "Reference" "U3"
 			(at 144.272 107.696 0)
 			(effects
 				(font
@@ -837,7 +837,7 @@
 		(instances
 			(project "Pump Control Card R1"
 				(path "/b0fb402c-3ef3-47ab-87a7-c9cf76e376c0/ae4f5bb6-a0ce-4bcc-8790-572e089af1bb/63a1c871-f7c8-40c9-a25d-fb41c3b6e016"
-					(reference "U2")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -865,7 +865,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8fad7128-116e-4b04-a91a-8226fbb89611")
-		(property "Reference" "#PWR0103"
+		(property "Reference" "#PWR061"
 			(at 134.62 102.87 0)
 			(effects
 				(font
@@ -915,7 +915,7 @@
 		(instances
 			(project "Timing Card"
 				(path "/b0fb402c-3ef3-47ab-87a7-c9cf76e376c0/ae4f5bb6-a0ce-4bcc-8790-572e089af1bb/63a1c871-f7c8-40c9-a25d-fb41c3b6e016"
-					(reference "#PWR0103")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -937,7 +937,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9ba54366-52b8-4699-b291-b55cb7a20912")
-		(property "Reference" "C6"
+		(property "Reference" "C42"
 			(at 134.366 89.408 0)
 			(effects
 				(font
@@ -991,7 +991,7 @@
 		(instances
 			(project "Timing Card"
 				(path "/b0fb402c-3ef3-47ab-87a7-c9cf76e376c0/ae4f5bb6-a0ce-4bcc-8790-572e089af1bb/63a1c871-f7c8-40c9-a25d-fb41c3b6e016"
-					(reference "C6")
+					(reference "C42")
 					(unit 1)
 				)
 			)
@@ -1012,7 +1012,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e635c328-a79d-4be7-9d06-efbf17e3cb8e")
-		(property "Reference" "#PWR0101"
+		(property "Reference" "#PWR062"
 			(at 139.7 88.9 0)
 			(effects
 				(font
@@ -1062,7 +1062,7 @@
 		(instances
 			(project "Timing Card"
 				(path "/b0fb402c-3ef3-47ab-87a7-c9cf76e376c0/ae4f5bb6-a0ce-4bcc-8790-572e089af1bb/63a1c871-f7c8-40c9-a25d-fb41c3b6e016"
-					(reference "#PWR0101")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
