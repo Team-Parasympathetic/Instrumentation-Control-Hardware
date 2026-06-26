@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.12,
-          "height": 1.67,
-          "width": 1.67
+          "drill": 0.8,
+          "height": 1.27,
+          "width": 2.54
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -633,6 +633,10 @@
     [
       "ea6424f1-c4b4-461e-9f97-ce84f6a534df",
       "USB"
+    ],
+    [
+      "6751eb2d-8788-4248-912f-7dd06dfe63b6",
+      "Tristate1"
     ]
   ],
   "text_variables": {}
