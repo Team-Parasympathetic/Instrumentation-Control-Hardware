@@ -3184,7 +3184,7 @@
 		(uuid "d9c82290-e221-4cc8-af33-ae79e1c805ac")
 	)
 	(label "VBUS"
-		(at 114.3 73.66 0)
+		(at 146.05 73.66 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3715,7 +3715,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "0.1uF"
 			(at 156.21 95.2499 0)
 			(effects
 				(font
